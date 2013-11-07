@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Chef\ D'IRC
+web: bin/hubot -a irc -n chefbot
