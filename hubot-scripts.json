@@ -6,5 +6,6 @@
   "github-issues.coffee",
   "github-issue-link.coffee",
   "github-pulls.coffee",
-  "ascii.coffee"
+  "ascii.coffee",
+  "karma.coffee"
 ]
